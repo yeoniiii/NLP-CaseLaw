@@ -20,12 +20,12 @@
 │       ├── kkma.txt
 │       ├── komoran.txt
 │       └── stopwords.txt
-│ 
+│
 ├── 3_Modeling
+│   ├── 3.1.1_FastText.ipynb
 │   ├── 3.1.2_FastText_output.ipynb
-│   ├── 3.1_FastText.ipynb
+│   ├── 3.2.1_SBERT.ipynb
 │   ├── 3.2.2_SBERT_output.ipynb
-│   ├── 3.2_SBERT.ipynb
 │   └── model
 │       ├── fasttext.model
 │       ├── fasttext.model.wv.vectors_ngrams.npy
