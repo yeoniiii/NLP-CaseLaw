@@ -18,6 +18,7 @@
 │   ├── 2.3_input_prep.py
 │   └── vocab_list
 │       ├── kkma.txt
+│       ├── kkmaCorpus.pkl
 │       ├── komoran.txt
 │       └── stopwords.txt
 │
@@ -31,6 +32,11 @@
 │       ├── fasttext.model.wv.vectors_ngrams.npy
 │       ├── fasttext_emb.pickle
 │       └── sbert_emb.pickle
+│ 
+├── 4_TopicModeling
+│   ├── 4.1_LSA.ipynb
+│   ├── 4.2_LDA.ipynb
+│   └── LDA_image.html
 │ 
 └── README.md
 ```
