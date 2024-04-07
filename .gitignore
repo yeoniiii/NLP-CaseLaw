@@ -1,4 +1,5 @@
 *.csv
 *.pickle
+*.pkl
 *.model
 *.npy
