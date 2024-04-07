@@ -3,5 +3,3 @@
 *.pkl
 *.model
 *.npy
-*.gitignore
-*.gitattributes
